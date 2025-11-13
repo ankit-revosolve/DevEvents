@@ -175,7 +175,7 @@
     @apply flex flex-col gap-3;
 
     .poster {
-      @apply h-[300px] w-full rounded-lg object-cover;
+      @apply h-[300px] rounded-lg object-cover;
     }
 
     .title {
